@@ -1,2 +1,0 @@
-# Moving_Window_Method
-授業の課題用に作成したMoving-Window法のシミュレーション用コード．
